@@ -8,23 +8,7 @@ a = b
 (a * 55)
  x = c(b,45," ")
 typeof(x)
-x <- c(2,4,5, "ank")
-typeof(x)
-nummy <- c("5","7","4")
-cast <- as.numeric(nummy)
-(nummy)
-typeof(cast)
-cast2<- as.logical(cast)
-(cast2)
 
-
-
-nummy_int <- c(1L,2L,3L)
-typeof(nummy)
-typeof(nummy_int)
-is.numeric(nummy_int)
-is.numeric(nummy)
-is.double(nummy)
 types <- c("int","double","character")
 typeof(types)
 logicals <- c(TRUE,F,TRUE,T, FALSE)
